@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <author name="James" location="UK">James Strachan</author>
+    <author name="Bob" location="US">
+        <film>小A</film>
+        <film>小A</film>
+        <film>小A</film>
+    </author>
+</root>
